@@ -1,0 +1,29 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Backend API for web application Hikerr.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikerrr/api.git"
+  },
+  "author": "Mohsin Ul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hikerrr/api/issues"
+  },
+  "homepage": "https://github.com/hikerrr/api#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.7",
+    "@types/mongoose": "^5.7.34",
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.27"
+  }
+}
